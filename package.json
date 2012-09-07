@@ -6,9 +6,11 @@
   "dependencies":
   {
     "socket.io": ">= 0.8.7"
+    
+  }
+  "engines": {
     "node": "0.4.7",
     "npm":  "1.0.106"
-  }
 }
 
 
