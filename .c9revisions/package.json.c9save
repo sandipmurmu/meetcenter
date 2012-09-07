@@ -1,0 +1,1 @@
+{"ts":1347044328663,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\n\n{\n  \"name\": \"websockets\",\n  \"version\": \"0.0.1\",\n  \"dependencies\":\n  {\n    \"socket.io\": \">= 0.8.7\"\n    \n  }\n  \"engines\": \n  {\n    \"node\": \"=0.8.8\",\n    \"npm\": \"=1.0.106\"\n  }\n}\n\n\n"]],"start1":0,"start2":0,"length1":0,"length2":179}]],"length":179}

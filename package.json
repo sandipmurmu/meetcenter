@@ -1,7 +1,7 @@
 
 
 {
-  "name": "websockets",
+  "name": "meetcenter",
   "version": "0.0.1",
   "dependencies":
   {
@@ -10,8 +10,8 @@
   }
   "engines": 
   {
-    "node": "=0.8.8",
-    "npm": "=1.0.106"
+    "node": "0.8.8",
+    "npm": "1.0.106"
   }
 }
 
